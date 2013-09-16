@@ -1,0 +1,14 @@
+{
+  "name": "async-series",
+  "repo": "jb55/async-series",
+  "description": "Execute a list of async functions in series",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
